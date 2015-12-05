@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.button {
+    float: left;
+}
+
+.problem {
+    clear: both;
+
+    max-width: 700px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.result {
+    float: left;
+
+    padding-left: 20px;
+}
